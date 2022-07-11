@@ -29,6 +29,9 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+#IIS Config
+web.config
+
 #PMSF
 /.sass-cache/
 /node_modules/
